@@ -1,0 +1,9 @@
+C:\Users\niknl\source\repos\sound\sound\bin\Debug\sound.exe.config
+C:\Users\niknl\source\repos\sound\sound\bin\Debug\sound.exe
+C:\Users\niknl\source\repos\sound\sound\bin\Debug\sound.pdb
+C:\Users\niknl\source\repos\sound\sound\obj\Debug\sound.csprojAssemblyReference.cache
+C:\Users\niknl\source\repos\sound\sound\obj\Debug\sound.Properties.Resources.resources
+C:\Users\niknl\source\repos\sound\sound\obj\Debug\sound.csproj.GenerateResource.cache
+C:\Users\niknl\source\repos\sound\sound\obj\Debug\sound.csproj.CoreCompileInputs.cache
+C:\Users\niknl\source\repos\sound\sound\obj\Debug\sound.exe
+C:\Users\niknl\source\repos\sound\sound\obj\Debug\sound.pdb
